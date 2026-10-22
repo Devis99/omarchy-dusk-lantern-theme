@@ -22,7 +22,7 @@ omarchy theme install https://github.com/Devis99/omarchy-obake-theme
 
 - Core Omarchy theme colors: lantern amber on the focused window, and menus that select in ink on lit paper.
 - Plymouth unlock artwork with the lantern ghost.
-- Extra app themes for GTK, Vencord (Midnight), Cava, Zen, btop and cliamp.
+- Extra app themes for GTK, Vencord (Midnight), Cava, Zen, Zed, btop and cliamp.
 - Yaru Purple icons.
 - A 5-wallpaper set in `backgrounds/`, sources listed in `backgrounds/SOURCES.md`.
 - A Base24 palette export in `obake-base24.yaml`.
